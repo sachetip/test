@@ -7,7 +7,7 @@ else:
     if thirsty=="yes":
         print ("Drink Coke")
     else:
-    print ("Do your homework")
+        print ("Do your homework")
 
 
 
