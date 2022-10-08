@@ -1,6 +1,6 @@
 print ("my  hungry program..........")
 hungry=input("Are you hungry?")
-if hungry=="yes":
+if hungry=="yes" and hungry=="y" and hungry=="Y" :
     print ("Eat Samosa")
     print("Eat fries")
 else:
